@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://juhiesayyed.github.io/csb-kwhrwj/static/css/main.f573fe52.chunk.css",
+    "main.js": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/main.ab9abf75.chunk.js",
+    "main.js.map": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/main.ab9abf75.chunk.js.map",
+    "runtime-main.js": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/runtime-main.0e188320.js",
+    "runtime-main.js.map": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/runtime-main.0e188320.js.map",
+    "static/js/2.110bbd17.chunk.js": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/2.110bbd17.chunk.js",
+    "static/js/2.110bbd17.chunk.js.map": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/2.110bbd17.chunk.js.map",
+    "index.html": "https://juhiesayyed.github.io/csb-kwhrwj/index.html",
+    "static/css/main.f573fe52.chunk.css.map": "https://juhiesayyed.github.io/csb-kwhrwj/static/css/main.f573fe52.chunk.css.map",
+    "static/js/2.110bbd17.chunk.js.LICENSE.txt": "https://juhiesayyed.github.io/csb-kwhrwj/static/js/2.110bbd17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e188320.js",
+    "static/js/2.110bbd17.chunk.js",
+    "static/css/main.f573fe52.chunk.css",
+    "static/js/main.ab9abf75.chunk.js"
+  ]
+}
